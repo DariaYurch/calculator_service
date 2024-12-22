@@ -1,7 +1,7 @@
 package application
 
 import (
-	"calc_go/pkg/calculator"
+	"github.com/DariaYurch/calculator_service/pkg/calculator"
 	"encoding/json"
 	"io/ioutil"
 	"log"
