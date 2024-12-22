@@ -1,6 +1,6 @@
 package main
 
-import "calc_go/internal/application"
+import "github.com/DariaYurch/calculator_service/internal/application"
 
 func main(){
 	application.RunServer()
